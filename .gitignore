@@ -1,0 +1,10 @@
+arian.txt
+*.session
+*.session-journal
+group_data.json
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
